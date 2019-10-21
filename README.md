@@ -3,7 +3,7 @@
    Our code is implemented based on the OSVOS in Caffe. You can first install the 'caffe-osvos' according to the [OSVOS](https://github.com/kmaninis/OSVOS-caffe). 
 
 # Results
-   We provide the one result of our 4 runs results here: [DAVIS Result](https://pan.baidu.com/s/1lVx-DeX-HOFynDNe70YDYg&shfl=sharepset) and [Youtube Results](https://pan.baidu.com/s/1JFikjH9DxxzsMW0lkJYC9g&shfl=sharepset).
+   We provide the one result of our 4 runs results here: [DAVIS Results](https://pan.baidu.com/s/1lVx-DeX-HOFynDNe70YDYg&shfl=sharepset) and [Youtube Results](https://pan.baidu.com/s/1JFikjH9DxxzsMW0lkJYC9g&shfl=sharepset).
      
 # DAVIS_20 Testing
 1. Download the 20 trained model from [here](https://pan.baidu.com/s/12CsQVstDL1qSj1l2E3sCWQ&shfl=sharepset) (1.2 G) and put it under `models/DAVIS_github/`.
