@@ -1,5 +1,6 @@
 # EOR-VOS
    This project provides the code and results for 'Effective Online Refinement for Video Object Segmentation', MTAP 2019. [Paper link](http://link.springer.com/article/10.1007/s11042-019-08146-3).
+   
    Our code is implemented based on the OSVOS in Caffe. You can first install the 'caffe-osvos' according to the [OSVOS](https://github.com/kmaninis/OSVOS-caffe). 
 
 # Results
@@ -20,4 +21,5 @@
 
 
 If you encounter any problems with the code, want to report bugs, etc.
+
 Please contact me at lllmiemie@163.com or ligongyang@shu.edu.cn.
