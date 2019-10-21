@@ -11,7 +11,6 @@
 3. Run `test_DAVIS_github.m`.
 
 # Citation
-   If you use this code, please consider citing the following paper:
         @ARTICLE{Li_2019_MTAP,
                 author = {Li, Gongyang and Liu, Zhi and Zhou, Xiaofei},
                 title = {Effective Online Refinement for Video Object Segmentatio},
