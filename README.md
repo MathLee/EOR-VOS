@@ -15,7 +15,7 @@
                 author = {Li, Gongyang and Liu, Zhi and Zhou, Xiaofei},
                 title = {Effective Online Refinement for Video Object Segmentatio},
                 booktitle = Multimedia Tools and Applications,
-		doi = '10.1007/s11042-019-08146-3',
+                doi = '10.1007/s11042-019-08146-3',
                 year = {2019}}
 
 
