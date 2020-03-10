@@ -15,9 +15,13 @@
         @ARTICLE{Li_2019_MTAP,
                 author = {Li, Gongyang and Liu, Zhi and Zhou, Xiaofei},
                 title = {Effective Online Refinement for Video Object Segmentatio},
-                journal = Multimedia Tools and Applications,
-                doi = '10.1007/s11042-019-08146-3',
-                year = {2019}}
+                journal = {Multimedia Tools and Applications},
+                year = {2019},
+                volume = {78},
+                number = {23},
+                pages = {33617-33631},
+                month = {Dec.},
+                doi = {10.1007/s11042-019-08146-3},}
 
 
 If you encounter any problems with the code, want to report bugs, etc.
