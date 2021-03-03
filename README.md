@@ -20,8 +20,7 @@
                 volume = {78},
                 number = {23},
                 pages = {33617-33631},
-                month = {Dec.},
-                doi = {10.1007/s11042-019-08146-3},}
+                month = {Dec.},}
 
 
 If you encounter any problems with the code, want to report bugs, etc.
